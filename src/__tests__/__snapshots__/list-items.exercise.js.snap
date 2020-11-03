@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`listItem CRUD 1`] = `
+Object {
+  "data": Object {
+    "message": "No list item was found with the id of b5623bf0-6bfc-408a-89c9-8cb38d8779a9",
+  },
+  "status": 404,
+}
+`;
